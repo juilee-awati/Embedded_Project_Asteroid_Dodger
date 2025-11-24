@@ -9,7 +9,7 @@ An embedded C project that simulates the "Asteroid Dodger" game on a 16x4 LCD. T
 
 **Software:**
 * Development Environment: Keil uVision 
-* Compiler: ARMCC C Compiler
+* Compiler: ARM C Compiler
 
 **Game Features:**
 * Player Control: Move the spaceship left and right using two buttons.
